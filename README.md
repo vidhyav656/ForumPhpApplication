@@ -13,3 +13,5 @@ To install this applicaion, Open the browser and type localhost/phpmyadmin. Crea
 Make respective changes of database connection in functions/db.php file.
 
 Then run the applicaion, by typing in any browser localhost/forum
+
+https://iwantsourcecodes.com/simple-forum-system-php-mysql-source-code/ 
